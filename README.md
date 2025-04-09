@@ -3,6 +3,7 @@
 Untuk menjalankan aplikasi cukup tulis di terminal : go run main.go
 
 Untuk melakukan Kegiatan CRUD bisa menggunakan info link di bawah ini
+
 METHOD GET 
 1. data Mahasiswa + Jurusan gunakan route : http://localhost:8080/mahasiswa/jurusan
 2. data Mahasiswa sesuai Id jurusan       : http://localhost:8080/jurusan/:id
